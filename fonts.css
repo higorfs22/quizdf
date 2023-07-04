@@ -1,0 +1,138 @@
+@font-face {
+   font-family: "Exo";
+   src: url("fonts/Exo Black.woff") format("woff"), url("fonts/Exo Black.eot") format("embedded-opentype"), url("fonts/Exo Black.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Exo";
+   src: url("fonts/Exo Black Italic.woff") format("woff"), url("fonts/Exo Black Italic.eot") format("embedded-opentype"), url("fonts/Exo Black Italic.otf") format("opentype");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Exo";
+   src: url("fonts/Exo Bold.woff") format("woff"), url("fonts/Exo Bold.eot") format("embedded-opentype"), url("fonts/Exo Bold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Exo";
+   src: url("fonts/Exo Bold Italic.woff") format("woff"), url("fonts/Exo Bold Italic.eot") format("embedded-opentype"), url("fonts/Exo Bold Italic.otf") format("opentype");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Exo";
+   src: url("fonts/Exo ExtraBold.woff") format("woff"), url("fonts/Exo ExtraBold.eot") format("embedded-opentype"), url("fonts/Exo ExtraBold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Exo";
+   src: url("fonts/Exo ExtraBold Italic.woff") format("woff"), url("fonts/Exo ExtraBold Italic.eot") format("embedded-opentype"), url("fonts/Exo ExtraBold Italic.otf") format("opentype");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Exo";
+   src: url("fonts/Exo ExtraLight.woff") format("woff"), url("fonts/Exo ExtraLight.eot") format("embedded-opentype"), url("fonts/Exo ExtraLight.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Exo";
+   src: url("fonts/Exo ExtraLight Italic.woff") format("woff"), url("fonts/Exo ExtraLight Italic.eot") format("embedded-opentype"), url("fonts/Exo ExtraLight Italic.otf") format("opentype");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Exo";
+   src: url("fonts/Exo Italic.woff") format("woff"), url("fonts/Exo Italic.eot") format("embedded-opentype"), url("fonts/Exo Italic.otf") format("opentype");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Exo";
+   src: url("fonts/Exo Light.woff") format("woff"), url("fonts/Exo Light.eot") format("embedded-opentype"), url("fonts/Exo Light.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Exo";
+   src: url("fonts/Exo Light Italic.woff") format("woff"), url("fonts/Exo Light Italic.eot") format("embedded-opentype"), url("fonts/Exo Light Italic.otf") format("opentype");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Exo";
+   src: url("fonts/Exo Medium.woff") format("woff"), url("fonts/Exo Medium.eot") format("embedded-opentype"), url("fonts/Exo Medium.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Exo";
+   src: url("fonts/Exo Medium Italic.woff") format("woff"), url("fonts/Exo Medium Italic.eot") format("embedded-opentype"), url("fonts/Exo Medium Italic.otf") format("opentype");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Exo";
+   src: url("fonts/Exo Regular.woff") format("woff"), url("fonts/Exo Regular.eot") format("embedded-opentype"), url("fonts/Exo Regular.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Exo";
+   src: url("fonts/Exo DemiBold.woff") format("woff"), url("fonts/Exo DemiBold.eot") format("embedded-opentype"), url("fonts/Exo DemiBold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Exo";
+   src: url("fonts/Exo DemiBold Italic.woff") format("woff"), url("fonts/Exo DemiBold Italic.eot") format("embedded-opentype"), url("fonts/Exo DemiBold Italic.otf") format("opentype");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Exo";
+   src: url("fonts/Exo Thin.woff") format("woff"), url("fonts/Exo Thin.eot") format("embedded-opentype"), url("fonts/Exo Thin.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Exo";
+   src: url("fonts/Exo Thin Italic.woff") format("woff"), url("fonts/Exo Thin Italic.eot") format("embedded-opentype"), url("fonts/Exo Thin Italic.otf") format("opentype");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Akhand-Bold";
+   src: url("fonts/u261eAkhand Bold.woff") format("woff"), url("fonts/u261eAkhand Bold.eot") format("embedded-opentype"), url("fonts/u261eAkhand Bold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Roboto Black";
+   src: url("fonts/Roboto Black Italic.woff") format("woff"), url("fonts/Roboto Black Italic.eot") format("embedded-opentype"), url("fonts/Roboto Black Italic.ttf") format("truetype"), url("fonts/Roboto Black Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Roboto Black";
+   src: url("fonts/Roboto Black.woff") format("woff"), url("fonts/Roboto Black.eot") format("embedded-opentype"), url("fonts/Roboto Black.ttf") format("truetype"), url("fonts/Roboto Black.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Roboto Medium";
+   src: url("fonts/Roboto Medium Italic.woff") format("woff"), url("fonts/Roboto Medium Italic.eot") format("embedded-opentype"), url("fonts/Roboto Medium Italic.ttf") format("truetype"), url("fonts/Roboto Medium Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Roboto Medium";
+   src: url("fonts/Roboto Medium.woff") format("woff"), url("fonts/Roboto Medium.eot") format("embedded-opentype"), url("fonts/Roboto Medium.ttf") format("truetype"), url("fonts/Roboto Medium.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}

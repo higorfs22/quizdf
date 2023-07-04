@@ -1,0 +1,134 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_11808EFD_1C7C_4900_41A6_90A44A5C3CF1.source = http://twitter.com/loremipsum
+LinkBehaviour_3D9E1078_1DAA_E313_4188_B8AEF7B5BFC0.source = http://twitter.com/loremipsum
+LinkBehaviour_11805EFC_1C7C_4900_41A5_69049257C60C.source = http://www.facebook.com/loremipsum
+LinkBehaviour_3D9C707F_1DAA_E30C_41A7_7B22FC4F276D.source = http://www.facebook.com/loremipsum
+LinkBehaviour_1180BEFD_1C7C_4900_4197_BD507448A1E2.source = http://www.loremipsum.com
+
+## E-Learning
+
+### Answer
+questionOption_083B8E66_1DA9_1F3F_41A9_E58343FB1A77.text = Aeronáutica
+questionOption_0882F2A7_1D59_E73C_41B8_1A8216A9C5C5.text = Asa Norte
+questionOption_09E13FBE_1D59_3D0F_41BB_AC7852F6896D.text = Asa Sul
+questionOption_0ACFB888_1DA9_23F3_41B2_169019FFBF34.text = Catedral Central de Brasilia
+questionOption_0BD30D94_1DA9_1D1C_419C_C527230E2350.text = Catedral Maria de Lourdes
+questionOption_0864C08A_1DAA_E3F7_41B5_370324DEA885.text = Catedral Metropolitana de Brasília
+questionOption_0B718A14_1DAB_271C_41A8_11C6431BC7E3.text = Catedral Rainha da Paz
+questionOption_0B5593C1_1DA7_2574_41B8_82C67131EE49.text = Cúpula da Direita( voltada p/ cima)
+questionOption_0B51C7FF_1DA7_ED0C_419E_6E4AE8FC352B.text = Cúpula da Esquerda ( voltada p/ baixo)
+questionOption_09AD245B_1D59_E314_41A1_8D96129A5266.text = Eixo Monumental
+questionOption_08FFE0CF_1D59_6308_41B7_3DCE34011FB2.text = Esplanada dos Ministérios
+questionOption_08487CB2_1DAA_E314_419D_7AE186DEE54E.text = Exército
+questionOption_05E60F2F_1DA7_1D0D_41B3_0A4E26167F9E.text = Getúlio Vargas
+questionOption_0BB4F4A6_1DAB_233C_41AF_A63C4CE93158.text = Guarda Presidencial
+questionOption_0A779685_1DA7_EFFD_41A3_079659F05B99.text = Itamar Franco
+questionOption_056CF1F1_1DA7_6514_4195_7FCF10D8DB75.text = Juscelino kubitschek
+questionOption_0A8DEB1F_1DAA_E50D_4121_C3AA18913894.text = Marinha
+questionOption_0BA5ED82_1D59_1DF4_4175_8A9BE69B4CBE.text = Palácio da Alvorada
+questionOption_0B03F94C_1D5B_650C_41B4_A15A8C7B5D1C.text = Palácio da Justiça
+questionOption_08BCAC96_1D5A_E31C_41BA_AE21875D0655.text = Palácio do Buriti
+questionOption_08DC2782_1D5B_2DF4_41A7_483B682B5D62.text = Palácio do Planalto
+questionOption_05C9DDBB_1DB9_1D14_41A7_BA5EA10421DF.text = Praça das Pedras
+questionOption_0A3C87AC_1DBF_ED0C_41A7_024DE6B1D7A6.text = Praça dos Cristais
+questionOption_05C0E55A_1DBF_2D17_41B5_14DB1938F400.text = Praça dos Diamantes
+questionOption_058D3BF9_1DBF_2514_41A0_1DF5E78BFD50.text = Praça dos Militares
+questionOption_04B56DC9_1DA9_3D77_41B8_E62511C25784.text = Rainha Imaculada
+questionOption_04633A1C_1DA9_670C_41B2_FB1B5215EEF9.text = Rainha da Esperança
+questionOption_0798F4E8_1DAB_2334_41AA_897040EEBD1C.text = Rainha da Paz
+questionOption_053F219C_1DAA_E50C_41B9_ABC3BC32B61E.text = Rainha do Amor
+questionOption_057B6DB5_1DA7_1D1C_419C_A722EA296DDE.text = Trancredo Neves
+
+### Qualification
+calification_1316909D_1D5E_E30D_41B2_714AFE84F1AF.text = Quase Gabaritou !!
+calification_10ABA41A_1D5F_2317_41A4_6EFA9C714828.text = Tirou nota máxima
+
+### Question
+question_048B67C4_1DB9_ED7C_41BC_6EFD6D53E4EA.title = Este monumento é uma homenagem a qual presidente ?
+question_099C9AAE_1D5B_670C_4192_66EA2E4F3F3E.title = Onde está localizada a Torre de TV ?
+question_057E6E28_1DBA_FF34_419F_24A90447DEAC.title = QUAL NOME DESSA ATRAÇÃO TURÍSTICA DE BRASÍLIA ?
+question_082686AA_1D59_6F34_4199_144969DFB9CB.title = Qual das cúpulas representa o senado federal ?
+question_0AFC73C7_1DA9_257C_41A3_A09549575D76.title = Qual das forças armadas pertence esse monumento ?
+question_0B09AFBC_1D59_3D13_41AE_FBBD7A79BDD7.title = Qual nome dessa famosa edificação de Brasília ?
+question_0464127E_1DAB_E70C_4192_0AFDF920E23D.title = Qual nome dessa igreja ?
+question_0B1E1CDD_1DAB_230D_41BA_19D996647BEF.title = Qual nome desse  ponto Turístico de Brasilia ?
+
+### Question Screen
+quizQuestion_119A944F_1C74_5900_41A6_8D2CA848B47E.ok = OK
+
+### Report Screen
+quizScore_1198F44F_1C74_5900_41AB_D9B83FB6590A.title = - SCORE -
+quizScore_1198F44F_1C74_5900_41AB_D9B83FB6590A.completion = Completed
+quizScore_1198F44F_1C74_5900_41AB_D9B83FB6590A.questionsCorrect = Correct
+quizScore_1198F44F_1C74_5900_41AB_D9B83FB6590A.downloadCSV = Download .csv
+quizScore_1198F44F_1C74_5900_41AB_D9B83FB6590A.questionsIncorrect = Incorrect
+quizScore_1198F44F_1C74_5900_41AB_D9B83FB6590A.items = Items Found
+quizScore_1198F44F_1C74_5900_41AB_D9B83FB6590A.questions = Questions
+quizScore_1198F44F_1C74_5900_41AB_D9B83FB6590A.repeat = Repeat
+quizScore_1198F44F_1C74_5900_41AB_D9B83FB6590A.description = SEU PLACAR FOI :
+quizScore_1198F44F_1C74_5900_41AB_D9B83FB6590A.submitToLMS = Submit
+quizScore_1198F44F_1C74_5900_41AB_D9B83FB6590A.elapsedTime = Time
+
+### Score Name
+score1.label = Placar
+
+### Timeout Screen
+quizTimeout_119A544E_1C74_5900_418D_370A6D7D36AD.title = - TIMEOUT -
+quizTimeout_119A544E_1C74_5900_418D_370A6D7D36AD.repeat = Repeat
+quizTimeout_119A544E_1C74_5900_418D_370A6D7D36AD.score = View Score
+
+## Media
+
+### Audio
+audiores_03E0042C_1DEB_6309_41B6_BE7F2D66F5C8.mp3Url = media/audio_014C6C9F_1DFB_630C_41A8_31C837B06EC0_pt.mp3
+audiores_03EA1511_1DEB_6D14_41B5_04691DCF0912.mp3Url = media/audio_01685BF1_1DF9_2514_41BB_81705031FB04_pt.mp3
+audiores_3D04B47C_1DBF_230C_41AC_0C4E099B33C2.mp3Url = media/audio_020DCF04_1DB9_1EFC_41A6_6339C070DEBB_pt.mp3
+audiores_02C2F1BF_1DDA_E50C_41B3_20B0B418BEC3.mp3Url = media/audio_03318EE8_1DDB_1F33_41AC_8BAFD2923896_pt.mp3
+audiores_0238839E_1DDA_E50F_41A2_3F4ABBA83C49.mp3Url = media/audio_0339EA83_1DD9_27F5_41A6_56E9DDBE643B_pt.mp3
+audiores_038A0FBA_1DEB_7D14_41BA_B4498AE2E379.mp3Url = media/audio_071DD67E_1DE9_6F0C_41B9_A0DC47898C49_pt.mp3
+audiores_038C50DC_1DEB_630C_41AE_93BA62B5D08E.mp3Url = media/audio_07644948_1DE9_6573_41B0_D6A400C4F62B_pt.mp3
+audiores_03FE8355_1DEB_651D_41AC_71E8922848BE.mp3Url = media/audio_0768CCF7_1DE9_631C_41BB_3EF47F38F60E_pt.mp3
+audiores_03935CDD_1DEB_630F_4173_6D3E206652EA.mp3Url = media/audio_07D79855_1DE9_231C_41A2_E32E5097C171_pt.mp3
+audiores_0862F517_1D6B_2D1C_41BA_86145FD6435A.mp3Url = media/audio_0F52A97C_1D69_650C_41AD_7A3EC4F64DCB_pt.mp3
+audiores_038C38BE_1DB9_630C_41B7_A6C4D3C66D76.mp3Url = media/audio_3DF3988E_1DAA_E30D_414A_AB000C8B3132_pt.mp3
+
+### Title
+panorama_082EAD3F_1D69_3D0C_4190_4E0A282018CD.label = GS__3211
+panorama_09CBEB86_1D69_25FC_41BC_A63860A069DE.label = GS__3222
+panorama_0B7AC9B6_1D69_251C_4157_11B7E6AD28D9.label = GS__3235
+panorama_0E9B6D3E_1D6B_1D0C_41A5_4E21FC838E58.label = GS__3247
+panorama_0A2B2A0E_1D67_E70C_41B0_56A5B7566274.label = GS__3276-edit
+panorama_0B75BD91_1D66_FD14_41BD_34A60236D161.label = GS__3294-edit
+panorama_0A843D0A_1D67_22F4_41A4_EDBA5F94CF2C.label = GS__3319-edit
+panorama_08108C01_1D79_62F5_41BA_2AC5F9D3483A.label = GS__3328
+
+## Skin
+
+### Button
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = Fotos
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = Fotos
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4.label = GO TO BUY 
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = INFORMATION
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = Reiniciar Quiz
+
+### Image
+Image_340C0150_1EB9_2513_41B6_F518307C03E2.url = skin/Image_340C0150_1EB9_2513_41B6_F518307C03E2_pt.png
+Image_34DCFF0D_1EB9_3D0C_41BA_AC3CE449F1E5.url = skin/Image_34DCFF0D_1EB9_3D0C_41BA_AC3CE449F1E5_pt.png
+Image_6924E557_649A_33AC_41BA_A1E22386BC22.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_pt.png
+Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7.url = skin/Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_pt.jpg
+
+### Multiline Text
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.8999999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.9vw;font-family:'Exo';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.4499999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:1.45vw;font-family:'Exo';"><B><I>The Arcona 340, is a 34’1” monohull sailboat designed by Stefan Qviberg. She was built by Arcona Yachts.</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Roboto Black';">Arcona 340's Performances:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Upwind sail area to displacementi: 26.25</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Downwind sail area to displacementi: 45.91</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Displacement-Length ratio (DLR)i: 156</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Ballast ratioi: 37 %</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Hull speedi: 7.60 knots</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';"> </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Roboto Black';">Arcona 340's Auxiliary engine</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Engine(s): 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Engine type: Inboard engine</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Engine: 20 HP</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Fuel type: Diesel</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Fuel tank capacity: 26.4 gal </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Roboto Black';">Arcona 340's Accommodation</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Cabin(s): 2</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Berth(s) (min/max): 4 / 6</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Head(s): 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Fresh water tank capacity: 34.3 gal</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Water heater capacity: 5.3 gal</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Holding tank capacity: 13.2 gal</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Arcona uses resin infusion to create a light, strong hull and deck comprised of multiaxial rovings and vinylester resin with a Divinycell core. A galvanized steel framework in the base of the hull carries the loads generated by the rig and keel. All bulkheads are laminated to the hull and deck. The keel is a lead bulb bolted onto an epoxy-coated cast-iron fin. The keel-stepped mast is by Seldén. Standing rigging is wire.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">A nearly plumb bow and a fairly abrupt reverse transom both look sharp and maximize the boat’s sailing length. End-boom sheeting with traveler and mainsheet controls immediately forward of the helm—right where they belong—show this is a boat that means business on the racecourse.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:0.97vw;font-family:'Roboto Black';">This is quite simply a nice boat, a sailor’s boat. Its quality construction, styling and many practical seagoing design features result in a smart and make for a fast, comfortable ride underway.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.4499999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.45vw;font-family:'Exo';"><B>$178,000</B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 10px rgba(0,0,0,0.6);text-align:left;font-size:6.56vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;font-family:'Exo';"><B><I>Tour 360 Educacional</I></B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 10px rgba(0,0,0,0.6);text-align:left;font-size:4.809999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#000066;font-size:4.81vmin;font-family:'Exo';"><B><I>BRASÍLIA - DF</I></B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 5px rgba(0,0,0,0.6);text-align:left;font-size:6.56vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;font-family:'Exo';"><B><I>Tour 360 Educacional</I></B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 5px rgba(0,0,0,0.6);text-align:left;font-size:4.809999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#000066;font-size:4.81vmin;font-family:'Exo';"><B><I>BRASÍLIA - DF</I></B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Tour 360 Educacional Brasília
